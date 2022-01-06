@@ -29,7 +29,7 @@ jpa spring-data-jpa jpql
 ### DB
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
 
 
 ## Problem Solving
