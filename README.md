@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
 
 ## Problem Solving
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aass0903)](https://solved.ac/aass0903)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chrish8513)](https://solved.ac/cherish8513)
