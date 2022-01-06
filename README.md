@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 
 ## Problem Solving
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chrish8513)](https://solved.ac/cherish8513)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={cherish8513})](https://solved.ac/{cherish8513})
