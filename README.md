@@ -26,16 +26,22 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JWT-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPQL-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/-JUnit5-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Mockito-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
  
-
+### SUB(DevOps)
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=black">
+<img src="https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AWS-RDS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+ 
 ### Interested In
 <p align="left">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Real%20World-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
