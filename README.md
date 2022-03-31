@@ -25,12 +25,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JWT-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring%20AOP-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
+<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/-JUnit5-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Mockito-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
+ 
  
 ### SUB(DevOps)
 <p align="left">
@@ -44,6 +48,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Real%20World-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/-gRPC-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/-graphQL-181717?style=flat-square"/>
+
 
 
 ## Problem Solving
