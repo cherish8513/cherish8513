@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Jeong Joo Heon
 ### Samsung SW Academy For Youth - 6th
-2020.07.08 ~
+2021.07.08 ~
 
 ## Tech Stack
 ### MAIN(BACK-END)
